@@ -1,2 +1,2 @@
-# Desafio de Projeto Git/GitHub
-desafio de projeto github
+# Desafio de Projeto Git/GitHub :boom: 
+- 1º desafio
